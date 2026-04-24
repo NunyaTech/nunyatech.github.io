@@ -5,4 +5,4 @@ The sites we have created are listed below:
 
 [Nunya Game Hub](https://nunya-cqj.pages.dev)
 
-[text editor](https://nunyatech.github.io/urban-garbonzo)
+[SimText](https://nunyatech.github.io/urban-garbonzo)
